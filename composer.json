@@ -1,0 +1,13 @@
+{
+    "name": "mklemersson/docs-to-pdf",
+    "description": "Show how to convert office documents into pdf",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Klemersson",
+            "email": "mklemersson.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
